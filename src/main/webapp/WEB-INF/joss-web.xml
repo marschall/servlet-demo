@@ -1,0 +1,3 @@
+<jboss-web>
+  <context-root>servlet-demo</context-root>
+</jboss-web>
